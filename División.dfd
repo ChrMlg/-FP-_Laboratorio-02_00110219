@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+12
+'Divisiones'
+4
+1
+18
+'Digite dividendo'
+5
+1
+3
+NDO
+4
+1
+16
+'Digite divisor'
+5
+1
+3
+SOR
+6
+2
+3
+COC
+7
+NDO/SOR
+3
+RES
+11
+NDO mod SOR
+7
+0
+1
+5
+RES>0
+4
+1
+30
+NDO,' es divisible entre ',SOR
+4
+1
+16
+'Cociente: ',COC
+13
+6
+1
+3
+NCO
+13
+(NDO-RES)/SOR
+4
+1
+33
+NDO,' No es divisible entre ',SOR
+4
+1
+33
+'Cociente: ',NCO,' Residuo: ',RES
+13
+1

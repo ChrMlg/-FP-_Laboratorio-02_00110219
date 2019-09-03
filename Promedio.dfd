@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+11
+'Promedios'
+4
+1
+21
+'Digite primera nota'
+5
+1
+2
+N1
+4
+1
+21
+'Digite segunda nota'
+5
+1
+2
+N2
+4
+1
+21
+'Digite tercera nota'
+5
+1
+2
+N3
+6
+2
+4
+SUM 
+8
+N1+N2+N3
+3
+PRO
+5
+SUM/3
+7
+0
+1
+5
+PRO<6
+4
+1
+37
+'Promedio: ',PRO,' Estatus: Aprobado'
+13
+4
+1
+38
+'Promedio: ',PRO,' Estatus: Reprobado'
+13
+1
